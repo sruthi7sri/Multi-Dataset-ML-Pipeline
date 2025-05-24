@@ -47,7 +47,6 @@ ml-multi-dataset-pipeline/
 │   └── auto_mpg_ridge.pkl
 ├── docs/                       # Generated HTML reports and PDFs
 │   └── fall24_ml_assignment1.pdf
-├── LICENSE                     # MIT License
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project overview and instructions
 ```
@@ -99,4 +98,4 @@ pip freeze | grep -E "pandas|numpy|scikit-learn|matplotlib|jupyter|nbconvert" > 
 - Showcase ability to serialize and deploy models.
 
 ## License
-© 2025 Sruthisri. All rights reserved.
+© 2024 Sruthisri. All rights reserved.
