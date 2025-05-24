@@ -47,7 +47,6 @@ ml-multi-dataset-pipeline/
 │   └── auto_mpg_ridge.pkl
 ├── docs/                       # Generated HTML reports and PDFs
 │   └── fall24_ml_assignment1.pdf
-├── LICENSE                     # MIT License
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project overview and instructions
 ```
