@@ -97,5 +97,17 @@ pip freeze | grep -E "pandas|numpy|scikit-learn|matplotlib|jupyter|nbconvert" > 
 - Evaluate and compare different models and metrics.
 - Showcase ability to serialize and deploy models.
 
+## Collaborators
+
+- Sruthisri Venkateswaran  
+- Saroja Vuluvabeeti
+
 ## License
-© 2024 Sruthisri. All rights reserved.
+© 2025 Sruthisri Venkateswaran and Saroja Vuluvabeeti. All rights reserved.
+
+## Contact
+
+we are always open to feedback, collaborations, or new opportunities in deep learning, ML deployment, and NLP research.
+
+- Linkedin: ([www.linkedin.com/in/sruthisri/](https://www.linkedin.com/in/sruthisri/))
+- For issues, suggestions, or improvements: [Open an Issue](https://github.com/sruthi7sri/Multi-Dataset-ML-Pipeline/issues)
